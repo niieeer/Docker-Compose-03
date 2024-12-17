@@ -1,0 +1,6 @@
+FROM node:lts-alpine
+
+RUN mkdir /app
+WORKDIR /app
+COPY ./src/index.js /app/index.js
+CMD ["node", "/app/index.js"]
