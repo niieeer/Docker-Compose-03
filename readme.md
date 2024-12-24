@@ -1,8 +1,11 @@
 # Hello App
 
+Docker-Compose-03
+
 ## Description
 
-Hello App est une application simple qui affiche un message de bienvenue.
+Application simple qui affiche un message de bienvenue.
+(Exercise 3 Odyssey)
 
 ## Installation
 
